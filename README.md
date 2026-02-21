@@ -229,11 +229,3 @@ Waypoints are hardcoded around coordinates `39.48°N, 29.89°E` (competition tes
 | `goto_position_target_local_ned(n, e, d)` | base_functions_vehicle | Sends a direct NED position target MAVLink message |
 
 ---
-
-## License
-
-This project is licensed under the terms of the [LICENSE](LICENSE) file included in this repository.
-
----
-
-*ARTUN UAV Team — TEKNOFEST 2023*
